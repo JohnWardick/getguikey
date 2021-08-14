@@ -1,0 +1,2 @@
+# getguikey
+get gui key
